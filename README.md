@@ -2,7 +2,7 @@
 
 A modern, responsive travel website built with HTML, CSS, and JavaScript that adapts seamlessly to different screen sizes.
 
-![Travel Website Preview](images/logo.png)
+
 
 ## Features
 
